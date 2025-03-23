@@ -1,0 +1,2 @@
+# stronapp.github.io
+stronka
